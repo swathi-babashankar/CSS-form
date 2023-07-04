@@ -1,0 +1,37 @@
+body{
+    margin-left: 600px;
+    margin-top: 100px;
+    background-color: rgb(5, 20, 47);
+    color: #ffff;
+    font-size: 18px;
+    
+}
+
+form input{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 180px;
+    height: 20px;
+}
+
+.email1 ,.name1{
+
+    margin-left: 55px;
+}
+
+.age1 , .date1 , .color1{
+    margin-left: 70px;
+}
+
+.gender1{
+
+    margin-left: -40px;
+}
+
+.submit{
+    margin-top: 40px;
+    margin-left: 150px;
+    padding: 10px 10px;
+    background-color: #f5f5f8cf;
+    cursor: pointer;
+}
